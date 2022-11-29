@@ -1,0 +1,5 @@
+db: railway
+host: containers-us-west-61.railway.app
+port: 5448
+user: root
+pw:
