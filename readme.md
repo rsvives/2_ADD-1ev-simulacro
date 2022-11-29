@@ -20,4 +20,8 @@ Dentro del archivo de java Ejercicio1/Ficheros, crear distintos métodos que lue
 ### Ejercicio 2:
 Realizar una conexión a una base de datos. Los datos de la conexión están en bbdd.txt
 - Crear un método que cree la conexión a la base de datos.
-- Método para crear una tabla con vuestro nombre y tres últimos dígitos de vuestro DNI. Ej: tizziano534Z
+- Método para crear una tabla llamada por vuestro nombre y tres últimos dígitos de vuestro DNI (Ej: tizziano534Z) que contenga los campos:
+  - id
+  - nombre
+  - apellidos
+  - email
